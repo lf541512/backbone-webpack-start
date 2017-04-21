@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+npm-debug.log
+.git
+.idea
+build.js
+dist/source/*
+dist/chunk*
+dist/*.js
+dist/*.css
+dist/source/
+
