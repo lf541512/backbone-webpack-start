@@ -1,14 +1,14 @@
 {
-  "name": "yaowang-weizhan",
-  "version": "3.1.0",
-  "description": "摇旺微站4.0",
+  "name": "backbone start kit",
+  "version": "1.0.0",
+  "description": "backbone start kit",
   "main": "index.js",
   "scripts": {
     "dev": "node build.js --debug",
     "test": "node build.js --test",
     "prd": "node build.js --prd"
   },
-  "author": "caihua.chen",
+  "author": "lf",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.15.6",
