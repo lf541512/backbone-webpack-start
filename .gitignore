@@ -4,9 +4,4 @@ npm-debug.log
 .git
 .idea
 build.js
-dist/source/*
-dist/chunk*
-dist/*.js
-dist/*.css
-dist/source/
-
+dist
